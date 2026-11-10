@@ -24,12 +24,6 @@
 <img src="https://komarev.com/ghpvc/?username=KashafAyaz&label=Profile+views&color=ffc4d6&style=flat-square&labelColor=1a1b27" />
 <img src="https://img.shields.io/github/followers/KashafAyaz?label=Followers&style=flat-square&color=b8e6c9&labelColor=1a1b27&logo=github" />
 
-<br/><br/>
-
-<img src="https://cataas.com/cat/gif" width="180" alt="random cat" />
-
-<sub>🐾 a random cat visits every time you refresh 🐾</sub>
-
 </div>
 
 ---
