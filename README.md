@@ -1,65 +1,54 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=282B4A&height=280&section=header&text=Hi,%20I'm%20Kashaf&fontSize=64&fontColor=EEEBDA&fontAlignY=38&desc=CIS%20student%20at%20NED%20University&descSize=24&descAlignY=60&descColor=EEEBDA" />
-</p>
+<div align="center">
+  <h1 style="color: #0366d6;">Hi there, I'm Kashaf Ayaz 👋</h1>
+  <h3 style="color: #2188ff;">CIS Student at North Dakota State University (NDSU)</h3>
+  
+  <p>
+    Welcome to my GitHub profile! I'm an aspiring software developer currently expanding my technical 
+    foundations through the Computer Information Systems program at NDSU. Right now, I'm diving deep 
+    into the <b>C programming language</b> to master low-level concepts, memory management, and efficient coding.
+  </p>
 
-<p align="center">
-  <a href="https://github.com/KashafAyaz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7F83B5&center=true&vCenter=true&width=700&height=60&lines=Learning+C+programming;One+program+at+a+time;Always+building+something+new" alt="Typing SVG" />
-  </a>
-</p>
+  <p>
+    <!-- Replace with your actual LinkedIn profile link -->
+    <a href="https://www.linkedin.com/in/kashaf-ayaz" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/KashafAyaz?tab=repositories"><img src="https://img.shields.io/badge/Learning-C-EEEBDA?style=for-the-badge&logo=c&logoColor=EEEBDA&labelColor=282B4A" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Editor-VS_Code-EEEBDA?style=for-the-badge&logo=visualstudiocode&logoColor=EEEBDA&labelColor=282B4A" /></a>
-  <a href="https://www.linkedin.com/in/kashaf-ayaz-157821422"><img src="https://img.shields.io/badge/LinkedIn-Connect-EEEBDA?style=for-the-badge&logo=linkedin&logoColor=EEEBDA&labelColor=282B4A" /></a>
-</p>
+<br>
 
----
+<div align="left">
+  <h2>🎓 About Me</h2>
+  <ul>
+    <li>📚 Studying <b>Computer Information Systems</b> at <b>NDSU</b>.</li>
+    <li>💻 Actively building projects and learning systems programming in <b>C</b>.</li>
+  </ul>
+</div>
 
-## About me
+<br>
 
-- 🎓 CIS student at NED University
-- 💻 Currently learning **C programming**
-- 📘 Building my skills one program at a time
+<div align="left">
+  <h2>🛠️ Languages & Tools</h2>
+  <p>Here are the technologies I use regularly:</p>
+  
+  <p>
+    <!-- C Language -->
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    
+    <!-- Version Control & Tools -->
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  </p>
+</div>
 
-<details>
-<summary><b>Click to see what I'm working on</b></summary>
+<br>
 
-- Practicing C basics: loops, arrays, functions
-- Getting comfortable with Git and GitHub
-- Goal: build a small project in C
-
-</details>
-
----
-
-## My tools
-
-<p>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-EEEBDA?style=for-the-badge&logo=c&logoColor=EEEBDA&labelColor=282B4A" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-EEEBDA?style=for-the-badge&logo=git&logoColor=EEEBDA&labelColor=282B4A" /></a>
-  <a href="https://github.com/KashafAyaz"><img src="https://img.shields.io/badge/GitHub-EEEBDA?style=for-the-badge&logo=github&logoColor=EEEBDA&labelColor=282B4A" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-EEEBDA?style=for-the-badge&logo=visualstudiocode&logoColor=EEEBDA&labelColor=282B4A" /></a>
-</p>
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KashafAyaz&background=282B4A&ring=EEEBDA&fire=EEEBDA&currStreakLabel=EEEBDA&sideLabels=EEEBDA&currStreakNum=EEEBDA&sideNums=EEEBDA&dates=B8B6A6&stroke=3A3E66&border=3A3E66" />
-</p>
-
----
-
-## Let's connect
-
-<p>
-  <a href="https://www.linkedin.com/in/kashaf-ayaz-157821422"><img src="https://img.shields.io/badge/LinkedIn-Kashaf_Ayaz-EEEBDA?style=for-the-badge&logo=linkedin&logoColor=EEEBDA&labelColor=282B4A" /></a>
-</p>
-
-**Thanks for stopping by 🐾**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=282B4A&height=140&section=footer" />
-</p>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=KashafAyaz&show_icons=true&theme=default&hide_border=true&title_color=0366d6&icon_color=0366d6" alt="Kashaf Ayaz's GitHub Stats" />
+  </p>
+</div>
